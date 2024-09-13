@@ -1,0 +1,124 @@
+*{
+    margin: 0px auto;
+    padding: 0px;
+}
+.wrapper{
+    height: 768px;;
+    width:  1366px ;
+    background-color:white;
+}
+.header{
+    font-size: 20px;
+    height: 15%;
+    width: 1366px;
+    
+    
+}
+.menu{
+    height: 80%;
+    width: 1366px;
+    background-color: #000000;
+    border-bottom: 2px solid b;
+   
+}
+.header-top{
+    height: 70%;
+    width: 100%;
+    background-color: #ac4b16;
+    border: 2px solid #000000;
+}
+.texthear{
+    padding-top: 10px;
+    color: #ac4b16;
+    font-size: 25px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 50px;
+}
+.menu-left{
+    height: 100%;
+    width: 69.8%;
+    float: left;
+    background-color: white ;
+}
+.menu-right{
+    height: 100%;
+    width: 30%;
+    float: right;
+    background-color: white;
+}
+.khung{
+    margin-top: 70px;
+    height: 40%;
+    width: 85%;
+    background-color: #faebd7;
+    border-radius: 20px 20px 0px 0px;
+}
+.tt{
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 10px;
+    float: left;
+    width: 100%;
+    margin-bottom: 10px;
+}
+ul{
+    list-style-type: square;
+    font-size: 20px;
+    float: left;
+    padding-left: 100px;
+    color: #cf5513;
+}
+li{
+    padding: 5px;
+}
+input[type="text"]{
+    width: 600px;
+    height: 40px;
+    margin-left: 100px;
+    margin-top: 10px;
+    border: none;
+    font-size: 20px;
+    color: silver;
+    border-bottom: 5px solid silver;
+}
+button{
+    width: 150px;
+    height: 40px;
+    margin-left: 100px;
+    margin-top: 50px;
+    background-color: #808000;
+    color: white;
+    font-size: 20px;
+}
+.khung1{
+    
+    height: 30%;
+    width: 60%;
+    background-color: whilte;
+}
+.hinh{
+    height: 40%;
+    width: 40%;
+    float: left;
+    background-color: royalblue;
+}
+.text-h{
+    font-size: 20px;
+    
+}
+.tieude{
+    font-size: 50px;
+    margin-left: 20px;
+    margin-top: 10px;
+    float: left;
+    width: 100%;
+    margin-bottom: 10px;
+    text-shadow: -5px -5px 3px #ffffff;
+    color: #808000;
+}
+.custom-hr{
+    border-top: 10px double black  ;
+    width: 100%;
+    background-color: silver;
+}
